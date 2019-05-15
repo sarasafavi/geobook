@@ -1,0 +1,7 @@
+jupyter
+ipykernel
+rasterio
+fiona
+folium
+matplotlib
+pandas
